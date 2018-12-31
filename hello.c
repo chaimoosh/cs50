@@ -1,8 +1,10 @@
-#import<stdio.h>
+#include<stdio.h>
 
-int main() 
+int main(void) 
 {
-    for (int i = 0; i < 50; i++){
-        printf("Hello, World");
-    }
+    printf("hello, world\n");
 }
+
+// for (int i = 0; i < 50; i++){
+//         printf("Hello, World\n");
+//     }
